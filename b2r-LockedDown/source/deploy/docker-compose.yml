@@ -1,0 +1,9 @@
+services:
+  ctf-assumed-breach:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    container_name: b2r-LockedDown
+    ports:
+      - "2222:22"
+    restart: unless-stopped

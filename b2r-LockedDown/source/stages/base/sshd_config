@@ -1,0 +1,10 @@
+Port 22
+PermitRootLogin no
+PasswordAuthentication yes
+PubkeyAuthentication no
+AuthorizedKeysFile none
+PermitEmptyPasswords no
+ChallengeResponseAuthentication no
+UsePAM no
+PrintMotd yes
+Subsystem sftp /usr/lib/ssh/sftp-server

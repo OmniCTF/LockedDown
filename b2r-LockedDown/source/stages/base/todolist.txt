@@ -1,0 +1,6 @@
+Company IT system have been breached, hence do the following:
+
+1. Disable SSH access except key personnel only.
+2. Lock all user accounts at the time being.
+3. Gather all logs for analysis later.
+4. Perform root cause analysis by this week.

@@ -1,4 +1,13 @@
-# CHALL_NAME
+# LockedDown
+
+**Category:** Boot2Root  
+**Difficulty:** Medium  
+
+You have been given credentials to an employee account as part of an assumed breach scenario. Escalate your privileges and retrieve the flag.
+
+**Given credentials:** `jake : 2eEhVmkzMHTq`
+
+**Flag location:** `/root/flag.txt`
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 

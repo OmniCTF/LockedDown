@@ -2,6 +2,7 @@
 
 **Category:** Boot2Root  
 **Difficulty:** Medium  
+**Author**: eggswithsoy
 
 You have been given credentials to an employee account as part of an assumed breach scenario. Escalate your privileges and retrieve the flag.
 
